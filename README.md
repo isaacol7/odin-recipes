@@ -1,0 +1,1 @@
+This project is a website that will have a recipe on it. It aims to showcase my ability to use Git commands, write good commit messages, use Github, and HTML. 
